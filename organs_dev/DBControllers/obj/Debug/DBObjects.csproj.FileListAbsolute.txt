@@ -1,0 +1,5 @@
+C:\Users\fsalas\Documents\Visual Studio 2008\Projects\organs_test\DBObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fsalas\Documents\Visual Studio 2008\Projects\organs_test\DBObjects\bin\Debug\DBObjects.dll
+C:\Users\fsalas\Documents\Visual Studio 2008\Projects\organs_test\DBObjects\bin\Debug\DBObjects.pdb
+C:\Users\fsalas\Documents\Visual Studio 2008\Projects\organs_test\DBObjects\obj\Debug\DBObjects.dll
+C:\Users\fsalas\Documents\Visual Studio 2008\Projects\organs_test\DBObjects\obj\Debug\DBObjects.pdb

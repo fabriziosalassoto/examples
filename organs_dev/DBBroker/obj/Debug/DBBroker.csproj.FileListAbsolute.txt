@@ -1,0 +1,5 @@
+C:\Users\fsalas\Desktop\organs_dev\DBBroker\bin\Debug\DBBroker.dll
+C:\Users\fsalas\Desktop\organs_dev\DBBroker\bin\Debug\DBBroker.pdb
+C:\Users\fsalas\Desktop\organs_dev\DBBroker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fsalas\Desktop\organs_dev\DBBroker\obj\Debug\DBBroker.dll
+C:\Users\fsalas\Desktop\organs_dev\DBBroker\obj\Debug\DBBroker.pdb

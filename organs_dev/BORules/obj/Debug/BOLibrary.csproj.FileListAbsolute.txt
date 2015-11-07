@@ -1,0 +1,5 @@
+C:\Users\fsalas\Desktop\organs_dev\BORules\bin\Debug\BOLibrary.dll
+C:\Users\fsalas\Desktop\organs_dev\BORules\bin\Debug\BOLibrary.pdb
+C:\Users\fsalas\Desktop\organs_dev\BORules\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fsalas\Desktop\organs_dev\BORules\obj\Debug\BOLibrary.dll
+C:\Users\fsalas\Desktop\organs_dev\BORules\obj\Debug\BOLibrary.pdb

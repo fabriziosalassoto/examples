@@ -1,0 +1,15 @@
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\DFWebHandlers.dll
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\DFWebHandlers.pdb
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\DFControllers.dll
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\BOBusinesObjects.dll
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\DBBroker.dll
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\DBControllers.dll
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\BOLibrary.dll
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\BOBusinesObjects.pdb
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\DBBroker.pdb
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\DBControllers.pdb
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\DFControllers.pdb
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\bin\Debug\BOLibrary.pdb
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\obj\Debug\DFWebHandlers.dll
+C:\Users\fsalas\Desktop\organs_dev\DFWebHandlers\obj\Debug\DFWebHandlers.pdb

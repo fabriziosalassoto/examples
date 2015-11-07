@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties
+END
+GoogleMap.MapEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMap.MapEvents.cs
+END
+GooglePolylineEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GooglePolylineEvents.cs
+END
+GoogleMarker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMarker.cs
+END
+GoogleDuration.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleDuration.cs
+END
+GooglePolygon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GooglePolygon.cs
+END
+GoogleBounds.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleBounds.cs
+END
+GoogleDistance.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleDistance.cs
+END
+JsonDataAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/JsonDataAttribute.cs
+END
+GoogleMarkerStyle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMarkerStyle.cs
+END
+GoogleMarkerEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMarkerEvents.cs
+END
+ClientScriptHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/ClientScriptHelper.cs
+END
+GoogleMapView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMapView.cs
+END
+StreetViewMode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/StreetViewMode.cs
+END
+GoogleMarker.DefaultInfoContent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMarker.DefaultInfoContent.cs
+END
+GooglePolygonEvents.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GooglePolygonEvents.cs
+END
+GoogleMapKey.snk
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMapKey.snk
+END
+JsUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/JsUtil.cs
+END
+GoogleDirection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleDirection.cs
+END
+GoogleMapBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMapBehaviour.cs
+END
+GoogleEventType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleEventType.cs
+END
+OpenInfoBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/OpenInfoBehaviour.cs
+END
+GoogleMarkerBehaviour.cs
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMarkerBehaviour.cs
+END
+IClientAction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/IClientAction.cs
+END
+ZoomPanType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/ZoomPanType.cs
+END
+GooglePoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GooglePoint.cs
+END
+GooglePolyline.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GooglePolyline.cs
+END
+MarkerManagerOptions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/MarkerManagerOptions.cs
+END
+GoogleMarker.TemplateContainer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMarker.TemplateContainer.cs
+END
+AssemblyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/AssemblyInfo.cs
+END
+GoogleEventArgs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleEventArgs.cs
+END
+GoogleMapDesigner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMapDesigner.cs
+END
+StateCollection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/StateCollection.cs
+END
+JsonSerializer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/JsonSerializer.cs
+END
+GoogleLocation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleLocation.cs
+END
+GoogleCirclePolygon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleCirclePolygon.cs
+END
+GoogleSize.cs
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleSize.cs
+END
+IJsonObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/IJsonObject.cs
+END
+GoogleEventList.cs
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleEventList.cs
+END
+GoogleMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/Artem.GoogleMap/Properties/GoogleMap.cs
+END

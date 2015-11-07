@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects
+END
+CLSCOBO_FunctionsRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects/CLSCOBO_FunctionsRepository.cs
+END
+CLSCOBO_ConsolidationEngine.cs
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects/CLSCOBO_ConsolidationEngine.cs
+END
+CLSCOBO_DeliveryPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects/CLSCOBO_DeliveryPoint.cs
+END
+COBusinessObjects.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects/COBusinessObjects.csproj
+END
+CLSCOBO_TruckItinerary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects/CLSCOBO_TruckItinerary.cs
+END
+CLSCOBO_ConsolidatorUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects/CLSCOBO_ConsolidatorUtils.cs
+END
+CLSCOBO_OriginPoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects/CLSCOBO_OriginPoint.cs
+END
+CLSCOBO_ConsolidationSolution.cs
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects/CLSCOBO_ConsolidationSolution.cs
+END
+CLSCOBO_BasePoint.cs
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects/CLSCOBO_BasePoint.cs
+END
+CLSCOBO_GoogleGEOMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects/CLSCOBO_GoogleGEOMap.cs
+END
+CLSCOBO_ConsolidationProblem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/il2000/consolidator/!svn/ver/84/Artemis/Consolidator%20-%20Standard%20step%20-%20heuristics%20version/Consolidator/COBusinessObjects/CLSCOBO_ConsolidationProblem.cs
+END

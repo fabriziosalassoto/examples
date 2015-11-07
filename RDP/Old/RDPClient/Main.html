@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>RDP Client</title>
+    <link rel="stylesheet" type="text/css" href="Main.css">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>  			    	
+	<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>     
+    <script language="javascript1.7" src="main.js"></script>
+    <style type="text/css">
+        .auto-style3 {
+            width: 117px;
+        }
+        .auto-style4 {
+            width: 127px;
+        }
+    </style>
+</head>
+<body>                                                   
+        <Table ID="Table1" runat="server">
+            <tr>
+                <td class="auto-style3">
+                    <h2 id="mytitle">RDP Client</h2>                                    
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style3">IP Address</td>
+                <td>
+                    <input type="text" ID="txtIP" value="127.0.0.1" readonly="true">
+                </td>            
+            </tr>
+            <tr>
+                <td class="auto-style3">Starting Port:</td>
+                <td>
+                    <input type="text" ID="txtStartingPort" value="1400" readonly="true">
+
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style3">Ending Port:</td>
+                <td>
+                    <input type="text" ID="txtEndingPort" value="1450" readonly="true">
+
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style3">
+                    <input type="button" ID="btnClick" value="Connect" onclick="GetScreenShot()">
+                </td>
+                <td>
+                    
+                </td>                
+            </tr>            
+        </Table>
+
+        <Table ID="Table2" runat="server">
+            <tr>
+                <td>
+                    <h2 id="myTitle2">Control Edition</h2>                                    
+                </td>
+            </tr>
+            <tr>
+                <td>Mouse Position:</td>
+                <td>    
+                    <input type="text" ID="MousePosition" value="" readonly="true">          
+                </td>            
+            </tr>
+            <tr>
+                <td>Control Selected:</td>
+                <td>
+                    <input type="text" ID="ControlSelected" value="" readonly="true">          
+                </td>
+            </tr>
+            <tr>
+                <td>Control's value:</td>
+                <td>
+                    <input type="text" ID="ControlValue" value="">          
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="button" ID="BtnUpdate" value="Update" onclick="ControlUpdate()">
+                </td>
+                <td>
+                    <input type="checkbox" ID="ChkMouseAndKeyboard"/>Enable Mouse and keyboard
+                </td>                
+            </tr>            
+        </Table>
+            <!--<div id="maindiv">     -->
+                <img id="myImage">            
+            <!--</div>-->
+        </body>
+</html>
